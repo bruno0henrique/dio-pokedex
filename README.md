@@ -1,7 +1,7 @@
 
 # 😁Hi there!
 
-Me chamo Bruno, tenho 21 anos, estou fazendo superior em ADS, além de cursar desenvolvimento Java pela [Ultima School](https://ultima.school/sobrenos/), também faço parte do Bootcamp Santander, que me permite estar estudando para ser um desenvolver Full-Stack, sabendo atuar Java, javaScript, HTML, CSS etc. Isso tudo através da plataforma [DIO](https://www.dio.me). <p><img width = "400" align = right src="/assets/pokemon.gif"></p>
+Me chamo Bruno, tenho 21 anos, estou fazendo superior em ADS, além de cursar desenvolvimento Java pela [Ultima School](https://ultima.school/sobrenos/), também faço parte do Bootcamp Santander, que me permite estar estudando para ser um desenvolver Full-Stack, sabendo atuar Java, javaScript, HTML, CSS etc. Isso tudo através da plataforma [DIO](https://www.dio.me). <p><img width = "400" align = right src="/pokemon.gif"></p>
 
 ---
 
