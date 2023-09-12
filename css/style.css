@@ -2,8 +2,18 @@ h1 {
     color: rgb(64, 51, 184);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: 200;
-    font-size: 80px;
     text-align: center;
+    font-size: 200px;
+}
+
+#titulo{
+    color: rgb(64, 51, 184);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 200;
+    text-align: center;
+    font-size: 100px;
+    margin: 0;
+    margin-top: 40px;
 }
 
 #btnTeste {
@@ -17,6 +27,7 @@ h1 {
     font-size: 30px;
     cursor: pointer;
     text-align: center;
+    margin-top: 70px;
 }
 #btnTeste:hover{    
     background-color: #0f1152;
