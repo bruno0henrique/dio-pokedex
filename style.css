@@ -1,7 +1,28 @@
-h1{
-    color:rgb(64, 51, 184);
+h1 {
+    color: rgb(64, 51, 184);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: 200;
-    font-size: 50px;
+    font-size: 80px;
+    text-align: center;
+}
+
+#btnTeste {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #2e31bb;
+    color: #fff;
+    border: none;
+    border-radius: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    cursor: pointer;
+    text-align: center;
+}
+#btnTeste:hover{    
+    background-color: #0f1152;
+    transition-duration: 300ms;
+}
+
+body {
     text-align: center;
 }
