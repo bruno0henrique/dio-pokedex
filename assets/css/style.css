@@ -12,27 +12,29 @@
 }
 
 ol.pokemons {
-    display: flex;
+    display: grid;
     grid-template-columns: 1fr 1fr;
     list-style: none;
-    padding: 0;
     margin: 0;
+    flex-direction: column;
+    padding: 0;
 }
 
 ol.pokemons li{
-    display: grid;
-    flex-direction: column;
     margin: .5rem;
+    display: flex;
     padding: 1rem;
     border-radius: 1rem;
     border: none;
     background-color: #14A0CF;
-    color: white;
+    color: white
 }
-.pokemon .detail img{
+
+img{
+    
     max-width: fit-content;
     max-height: 100px;    
-    align-self: flex-end;
+    align-self: flex-start;
 }
 
 
