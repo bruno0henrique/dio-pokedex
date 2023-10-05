@@ -23,6 +23,13 @@ h1 {
     border: 3px solid blue;
 }
 
+li a {
+    display: block; /* Torna todo o espaço do <li> clicável */
+    padding: 10px; /* Espaçamento interno para tornar a área clicável maior */
+    text-decoration: none; /* Remove sublinhado padrão dos links */
+    color: inherit; /* Herda a cor do texto do elemento pai (opcional) */
+}
+
 @media screen and (min-width: 992px) {
     .content {
         max-width: 992px;
@@ -31,3 +38,4 @@ h1 {
         border-radius: 1rem;
     }
 }
+
